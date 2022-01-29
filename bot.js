@@ -8,6 +8,7 @@ client.on('ready', () => {
 
 function bump() {
   client.channels.cache.get(config.bumpChannel).send('!d bump');
+  console.log('Bumped!');
 };
 
 (function loop() {
@@ -17,5 +18,5 @@ function bump() {
     loop();  
   }, randomNum);
 }());
- 
+
 client.login(config.token);
