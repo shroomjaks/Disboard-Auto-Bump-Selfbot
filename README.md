@@ -6,7 +6,7 @@ A selfbot that automatically bumps on Disboard.
 Selfbots are against Discord's Terms of Service. I am not liable for any accounts that get deactivated/banned from the use of this selfbot.
 
 # Setup:
-Open **config.json** it will look like this:
+Open **config.json**:
 ```
 {
     "token": "YOUR_USER_TOKEN",
