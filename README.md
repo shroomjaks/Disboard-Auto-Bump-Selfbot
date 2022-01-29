@@ -1,5 +1,5 @@
 # Discord Auto Bump Selfbot
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Lozarth) [<img src="https://img.shields.io/github/license/appu1232/Discord-Selfbot.svg?style=flat-square">](https://github.com/appu1232/Discord-Selfbot/blob/master/LICENSE)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Lozarth) [<img src="https://img.shields.io/github/license/appu1232/Discord-Selfbot.svg?style=flat-square">](https://github.com/MonkoTubeYT/Disboard-Auto-Bump-Selfbot/blob/main/LICENSE)
 
 A selfbot that automatically bumps on Disboard.
 # WARNING:
@@ -13,6 +13,6 @@ Open **config.json** it will look like this:
     "bumpChannel": "YOUR_CHANNEL_ID"
 }
 ```
-Change YOUR_USER_TOKEN to your alt-account token.
+Change **YOUR_USER_TOKEN** to your alt-account token.
 
-Change YOUR_CHANNEL_ID to the id of the channel that you want the bot to send **!d bump** in.
+Change **YOUR_CHANNEL_ID** to the id of the channel that you want the bot to send **!d bump** in.
