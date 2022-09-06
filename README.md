@@ -4,7 +4,10 @@
 A selfbot that automatically bumps on Disboard.
 # WARNING:
 Selfbots are against Discord's Terms of Service.
-This code is strictly educational and I am not liable for any accounts that get deactivated/banned from the use of this selfbot.
+
+This code is strictly educational.
+
+I am not liable for any accounts that get moderated by Discord from the use of this selfbot.
 
 # Setup:
 Open **config.json**:
