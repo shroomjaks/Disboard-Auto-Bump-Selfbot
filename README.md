@@ -4,6 +4,7 @@
 A selfbot that automatically bumps on Disboard.
 # WARNING:
 Selfbots are against Discord's Terms of Service.
+Which can be found at https://discord.com/guidelines and https://discord.com/terms
 
 This code is strictly educational.
 
