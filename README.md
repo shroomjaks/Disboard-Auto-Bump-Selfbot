@@ -1,5 +1,5 @@
 # Discord Auto Bump Selfbot
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Lozarth) [<img src="https://img.shields.io/github/license/appu1232/Discord-Selfbot.svg?style=flat-square">](https://github.com/MonkoTubeYT/Disboard-Auto-Bump-Selfbot/blob/main/LICENSE)
+[<img src="https://img.shields.io/github/license/appu1232/Discord-Selfbot.svg">](https://github.com/MonkoTubeYT/Disboard-Auto-Bump-Selfbot/blob/main/LICENSE)
 
 A selfbot that automatically bumps on Disboard.
 # WARNING:
