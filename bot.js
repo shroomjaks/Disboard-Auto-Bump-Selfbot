@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 function bump() {
   client.channels.cache.get(config.bumpChannel).send('!d bump');
-  console.log('Bumped!');
+  console.count('Bumped!');
 };
 
 (function loop() {
