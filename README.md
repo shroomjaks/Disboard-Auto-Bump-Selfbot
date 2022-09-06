@@ -8,7 +8,7 @@ Which can be found at https://discord.com/guidelines and https://discord.com/ter
 
 This code is strictly educational.
 
-I am not liable for any accounts that get moderated by Discord from the use of this selfbot.
+I am not liable for any accounts that get moderated by Discord due to the use of this selfbot.
 
 # Setup:
 Open **config.json**:
