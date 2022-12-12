@@ -17,4 +17,5 @@ token=YOURUSERTOKEN
 bumpChannel=YOURBUMPCHANNEL
 ```
 Change **YOURUSERTOKEN** to your alt-account token.
+
 Change **YOURBUMPCHANNEL** to the ID of the channel that you want the bot to send **/bump** in.
