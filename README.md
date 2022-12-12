@@ -11,13 +11,10 @@ This code is strictly educational.
 I am not liable for any accounts that get moderated by Discord due to the use of this selfbot.
 
 # Setup:
-Open **config.json**:
+Open **.env**:
 ```
-{
-    "token": "YOUR_USER_TOKEN",
-    "bumpChannel": "YOUR_CHANNEL_ID"
-}
+token=YOURUSERTOKEN
+bumpChannel=YOURBUMPCHANNEL
 ```
-Change **YOUR_USER_TOKEN** to your alt-account token.
-
-Change **YOUR_CHANNEL_ID** to the id of the channel that you want the bot to send **!d bump** in.
+Change **YOURUSERTOKEN** to your alt-account token.
+Change **YOURBUMPCHANNEL** to the ID of the channel that you want the bot to send **/bump** in.
