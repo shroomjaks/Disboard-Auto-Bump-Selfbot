@@ -1,14 +1,14 @@
 const { Client } = require('discord.js-selfbot-v13')
 const client = new Client()
 
-const config = require('./config.json')
+require('dotenv').config()
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`)
 })
 
 async function bump() {
-    const channel = await client.channels.fetch(config.bumpChannel)
+    const channel = await client.channels.fetch(process.env.bumpChannel)
     await channel.sendSlash('302050872383242240', 'bump')
     console.count('Bumped!')
 }
@@ -22,4 +22,4 @@ async function bump() {
     }, randomNum)
 }())
 
-client.login(config.token)
+client.login(process.env.token)
