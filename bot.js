@@ -3,7 +3,7 @@ const client = new Client()
 
 require('dotenv').config()
 
-client.on('ready', () => {
+client.on('ready', async () => {
     console.log(`Logged in as ${client.user.tag}!`)
 
     const channel = await client.channels.fetch(process.env.bumpChannel)
