@@ -1,7 +1,8 @@
 const { Client } = require('discord.js-selfbot-v13')
 const client = new Client()
 
-var config = yaml_config.load('.env');
+const yaml_config = require('node-yaml-config');
+var config = yaml_config.load('config.yml');
 
 client.on('ready', async () => {
     console.log(`Logged in as ${client.user.tag}!`)
