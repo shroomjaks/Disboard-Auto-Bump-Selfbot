@@ -11,10 +11,11 @@ This code is strictly educational.
 I am not liable for any accounts that get moderated by Discord due to the use of this selfbot.
 
 # Setup
-Open **.env**:
+Open **config.yml**:
 ```
-token=YOURUSERTOKEN
-bumpChannel=YOURBUMPCHANNEL
+default:
+  token: "your token"
+  bumpChannel: "bump channel id"
 ```
 Change **YOURUSERTOKEN** to your alt-account token.
 
