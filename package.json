@@ -6,6 +6,7 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js-selfbot-v13": "2.9.13"
+    "discord.js-selfbot-v13": "2.9.13",
+    "node-yaml-config": "1.0.0"
   }
 }
