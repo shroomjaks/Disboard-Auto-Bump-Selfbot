@@ -1,3 +1,0 @@
-default:
-  token: "your token"
-  bumpChannel: "bump channel id"
