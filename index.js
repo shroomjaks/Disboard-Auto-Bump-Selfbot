@@ -2,6 +2,9 @@ require('dotenv').config()
 const { Client } = require('discord.js-selfbot-v13')
 const client = new Client()
 
+/* -- Webserver remove this if you dont want -- */
+require('./server')
+
 client.on('ready', async () => {
     console.log(`Logged in as ${client.user.tag}!`)
 
