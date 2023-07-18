@@ -11,11 +11,10 @@ This code is strictly educational.
 I am not liable for any accounts that get moderated by Discord due to the use of this selfbot.
 
 # Setup
-Open **config.yml**:
+Open **.env**:
 ```
-default:
-  token: "your token"
-  bumpChannel: "bump channel id"
+  token=your token
+  bumpChannel=bump channel id
 ```
 Change **YOURUSERTOKEN** to your alt-account token.
 
@@ -45,3 +44,5 @@ window.webpackChunkdiscord_app.push([
 console.log('%cWorked!', 'font-size: 50px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 ```
+# UPTIMER LINK SYSTEM
+host your url in a <a href="https://uptimerobot.com/"> uptimer</a>.
