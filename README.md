@@ -13,12 +13,12 @@ I am not liable for any accounts that get moderated by Discord due to the use of
 # Setup
 Open **.env**:
 ```
-  token=your token
-  bumpChannel=bump channel id
+TOKEN=
+BUMP_CHANNEL=
 ```
-Change **YOURUSERTOKEN** to your alt-account token.
+Change **TOKEN** to your alt-account token.
 
-Change **YOURBUMPCHANNEL** to the ID of the channel that you want the bot to send **/bump** in.
+Change **BUMP_CHANNEL** to the ID of the channel that you want the bot to send **/bump** in.
 
 # How to get user token
 1. Open Discord
@@ -44,5 +44,3 @@ window.webpackChunkdiscord_app.push([
 console.log('%cWorked!', 'font-size: 50px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 ```
-# UPTIMER LINK SYSTEM
-host your url in a <a href="https://uptimerobot.com/"> uptimer</a>.
