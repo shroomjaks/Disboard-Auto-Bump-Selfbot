@@ -16,9 +16,9 @@ Open **.env**:
 TOKEN=
 BUMP_CHANNEL=
 ```
-Change **TOKEN** to your alt-account token.
+Paste your alt-account token to the end of **TOKEN=**
 
-Change **BUMP_CHANNEL** to the ID of the channel that you want the bot to send **/bump** in.
+Paste the ID of the channel that you want the bot to send **/bump** in to the end of **BUMP_CHANNEL=**
 
 # How to get user token
 1. Open Discord
