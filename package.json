@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js-selfbot-v13": "2.9.13",
+    "discord.js-selfbot-v13": "^3.1.4",
     "dotenv": "^10.0.0"
   }
 }
