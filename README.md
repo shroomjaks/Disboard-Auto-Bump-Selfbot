@@ -29,6 +29,11 @@ window.webpackChunkdiscord_app.push([
   [Math.random()],
   {},
   req => {
+    if (!req.c) {
+      console.error('req.c is undefined or null');
+      return;
+    }
+
     for (const m of Object.keys(req.c)
       .map(x => req.c[x].exports)
       .filter(x => x)) {
